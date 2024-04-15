@@ -23,14 +23,5 @@ public class Constructor{
         new Constructor(30, 60);
         new Constructor(20.60, 60.30);
         new Constructor(45.6);
-    }
-
-
-
-    Constructor(){
-
-    }
-
-
-    
+    }    
 }
